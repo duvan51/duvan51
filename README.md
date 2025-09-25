@@ -35,32 +35,33 @@ Una app que ayuda a músicos a mejorar sus habilidades, organizarse y crecer en 
       <a href="https://www.youtube.com/watch?v=Zpp2RChclKE" target="_blank">
         <img src="https://img.youtube.com/vi/Zpp2RChclKE/0.jpg" alt="Video 1" width="100%"/>
       </a>
-      <h4>🎬 Cómo empezar en programación</h4>
-      <p>Consejos y guía práctica para dar tus primeros pasos en el mundo del desarrollo.</p>
+      <h4>🎬 Appsheet y Mysql  </h4>
+      <p> Consejos y guía práctica para combinar tu aplicacion web con bd en mysql con Appsheet</p>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Video 2" width="100%"/>
+      <a href="https://www.youtube.com/watch?v=2s5ge7NTWi0" target="_blank">
+        <img src="https://img.youtube.com/vi/2s5ge7NTWi0/0.jpg" alt="Video 2" width="100%"/>
       </a>
-      <h4>⚡ Proyecto Fullstack</h4>
-      <p>Un vistazo a cómo estructurar un proyecto completo desde cero.</p>
+      <h4>⚡ Proyecto Parqueadero Appsheet </h4>
+      <p> Comenzamos demostrando uno de los primeros sistemas desarrollados en Appsheet para un parqueadero, el cual nos facilita procesos diarios de un parking </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://www.youtube.com/watch?v=abcd1234" target="_blank">
-        <img src="https://img.youtube.com/vi/abcd1234/0.jpg" alt="Video 3" width="100%"/>
+      <a href="https://www.tiktok.com/@desarrollando_ando/video/7475992136685522182" target="_blank">
+        <img src="https://res.cloudinary.com/dlkky5xuo/image/upload/v1758776116/cv/Game_On_ibxuft.jpg" width="100%" alt="TikTok Video" />
       </a>
-      <h4>🔒 Introducción a la Ciberseguridad</h4>
-      <p>Los fundamentos de seguridad que todo desarrollador debe conocer.</p>
-    </td>
+    <h4>🔒 Gestor de  Tareas en 1 min </h4>
+      <p> Crea una app que gestione tus tareas o las de tus clientes en 1 min  </p>
+  </td>
     <td align="center" width="50%">
-      <a href="https://www.youtube.com/watch?v=wxyz5678" target="_blank">
-        <img src="https://img.youtube.com/vi/wxyz5678/0.jpg" alt="Video 4" width="100%"/>
+      <a href="https://www.tiktok.com/@desarrollando_ando/video/7470439475756256517" target="_blank">
+        <img src="https://res.cloudinary.com/dlkky5xuo/image/upload/v1758776661/cv/Game_On2_wvg0qg.jpg" width="100%" alt="TikTok Video" />
       </a>
-      <h4>📱 Desarrollo Móvil con React Native</h4>
-      <p>Crea tu primera aplicación móvil paso a paso.</p>
-    </td>
+    <h4>🔒 Gestor de  Tareas en 1 min </h4>
+      <p> Crea una app que gestione tus tareas o las de tus clientes en 1 min  </p>
+  </td>
+    
   </tr>
 </table>
 
